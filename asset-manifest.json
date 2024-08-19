@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/Speedometer-ReactJS/static/css/main.9299f043.chunk.css",
+    "main.js": "/Speedometer-ReactJS/static/js/main.9963c7fa.chunk.js",
+    "main.js.map": "/Speedometer-ReactJS/static/js/main.9963c7fa.chunk.js.map",
+    "runtime-main.js": "/Speedometer-ReactJS/static/js/runtime-main.337710e4.js",
+    "runtime-main.js.map": "/Speedometer-ReactJS/static/js/runtime-main.337710e4.js.map",
+    "static/js/2.9b255adb.chunk.js": "/Speedometer-ReactJS/static/js/2.9b255adb.chunk.js",
+    "static/js/2.9b255adb.chunk.js.map": "/Speedometer-ReactJS/static/js/2.9b255adb.chunk.js.map",
+    "index.html": "/Speedometer-ReactJS/index.html",
+    "static/css/main.9299f043.chunk.css.map": "/Speedometer-ReactJS/static/css/main.9299f043.chunk.css.map",
+    "static/js/2.9b255adb.chunk.js.LICENSE.txt": "/Speedometer-ReactJS/static/js/2.9b255adb.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.337710e4.js",
+    "static/js/2.9b255adb.chunk.js",
+    "static/css/main.9299f043.chunk.css",
+    "static/js/main.9963c7fa.chunk.js"
+  ]
+}
