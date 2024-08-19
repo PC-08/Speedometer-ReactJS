@@ -1,0 +1,62 @@
+/* Write your CSS here */
+/* Write your CSS here */
+
+.bg-container {
+  background-color: #07080c;
+  font-family: 'roboto';
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  height: 100vh;
+  color: white;
+  font-family: 'roboto';
+}
+
+.speedometer-img {
+  height: 300px;
+  width: 800px;
+}
+
+.btn-container {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+
+.btn-a {
+  cursor: pointer;
+  outline: none;
+  color: white;
+  background-color: #0b69ff;
+  border-radius: 8px;
+  border: 0px;
+  padding: 10px;
+  font-weight: bold;
+  width: 120px;
+  margin-right: 30px;
+}
+
+.btn-b {
+  cursor: pointer;
+  outline: none;
+  color: #94a3b8;
+  background-color: transparent;
+  border-radius: 8px;
+  border: 2px solid #94a3b8;
+  padding: 10px;
+  font-weight: bold;
+  width: 120px;
+}
+
+.para {
+  color: #94a3b8;
+}
+
+@media (max-width: 576px) {
+  .speedometer-img {
+    height: 150px;
+    width: 250px;
+  }
+}
